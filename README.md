@@ -1,38 +1,92 @@
-👋 Hola, soy Yosbert Mejía Rosario
-Full Stack Developer | Linux | Azure | Python
+# 👋 Hola, soy Yosbert Mejía Rosario  
+### Full Stack Developer | Linux | DevOps Enthusiast | Azure & Python
 
-Desarrollador de software con experiencia creando sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube. Actualmente estudio Tecnólogo en Desarrollo de Software en Loyola IEESL y trabajo como Full Stack Developer en Intellisys D. Corp.
+Soy un desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube.
 
-🚀 Sobre mí
+Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y trabajo como **Desarrollador Full Stack** en *Intellisys D. Corp*, donde participo en el desarrollo de aplicaciones reales usando tecnologías actuales.
 
-💼 Full Stack Developer en proyectos reales
+---
 
-👨‍🎓 Estudiante de Desarrollo de Software (Loyola IEESL)
+## 🚀 Sobre mí
+- 👨‍🎓 Estudiante de Desarrollo de Software (Loyola IEESL)  
+- 💼 Full Stack Developer en proyectos reales  
+- 🐧 Amante de Linux y la automatización  
+- ☁️ Experiencia con Azure y despliegues en la nube  
+- 🧰 Construyo soluciones de backend eficientes (Node.js, Python, C#)  
+- 🗄️ Trabajo con bases de datos SQL (MySQL, PostgreSQL)  
+- 🕹️ Experiencia creando interfaces limpias y funcionales (React, Tailwind)  
+- 🧩 Tengo conocimientos en CMS (Strapi) y control de versiones con Git  
 
-🐧 Usuario avanzado de Linux
+---
 
-☁️ Experiencia con Azure y despliegues en la nube
+## 🛠️ Tecnologías y Herramientas
 
-⚙️ Desarrollo backend con Node.js, Python y C#
+### 🎨 Frontend
+- React.js  
+- Tailwind CSS  
+- JavaScript
 
-🗄️ Manejo de MySQL y PostgreSQL
+### ⚙️ Backend
+- Node.js  
+- Python  
+- C# (Windows Forms)
 
-🎨 Frontend con React y Tailwind
+### 🗄️ Bases de Datos
+- MySQL  
+- PostgreSQL  
+- SQL  
 
-🔧 Experiencia con Strapi y Git
+### ☁️ Cloud & DevOps
+- Microsoft Azure  
+- Docker (en proceso de profundización)  
+- Linux (uso diario)
 
-🛠️ Tecnologías
+### 🔧 Otros
+- Strapi CMS  
+- API REST  
+- Git & GitHub  
 
-Frontend: React, Tailwind, JavaScript
-Backend: Node.js, Python, C#
-Bases de datos: MySQL, PostgreSQL
-Cloud & DevOps: Azure, Docker, Linux
-Otros: Strapi, APIs REST, Git
+---
 
-🧩 Proyectos Destacados
+## 🧩 Proyectos Destacados
 
-Sistema de Facturación en C# — CRUD completo con MySQL y Windows Forms.
+### **🧾 Sistema de Facturación en C#**
+- CRUD completo para clientes, productos y facturas  
+- Conexión con MySQL  
+- Windows Forms para la interfaz  
+- Gestión eficiente del flujo de ventas  
 
-Billing System en Python — Facturación, generación de PDF, API interna y automatización.
+---
 
-Proyectos Full Stack — Web apps con React + Tailwind y backend con Strapi.
+### **💼 Billing System en Python**
+- Sistema de facturación completo  
+- Generación de facturas en PDF  
+- Integración con base de datos  
+- API interna para consumo de otros servicios  
+- Automatización del proceso de cobro y administración  
+
+---
+
+### **🌐 Proyectos Full Stack**
+- Páginas web desarrolladas con React + Tailwind  
+- Integración con Strapi como backend  
+- Manejo de archivos, autenticación, endpoints y base de datos
+
+---
+
+## 📚 Educación
+- **IEESL LOYOLA (2023 - 2025)**  
+  Tecnólogo en Desarrollo de Software  
+
+- **ITLA (2025)**  
+  Microsoft Azure – Nivel Profesional  
+
+- **ITLA (2025)**  
+  Python Avanzado  
+
+---
+
+## 📫 Contacto
+- 📱 Teléfono: 829-932-5929  
+- ✉️ Correo: isaelm540@gmail.com  
+- 🐦 Instagram: @_yosbert  
