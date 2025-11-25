@@ -1,92 +1,40 @@
-# 👋 Hola, soy Yosbert Mejía Rosario  
-### Full Stack Developer | Linux | Azure & Python
+👋 Hola, soy Yosbert Mejía Rosario
+Full Stack Developer | Linux | Azure | Python
 
-Soy un desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube.
+Desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas en frontend, backend, bases de datos y despliegue en la nube. Actualmente estudio Tecnólogo en Desarrollo de Software (Loyola IEESL) y trabajo como Full Stack Developer en Intellisys D. Corp.
 
-Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y trabajo como **Desarrollador Full Stack** en *Intellisys D. Corp*, donde participo en el desarrollo de aplicaciones reales usando tecnologías actuales.
+🧑‍💻 Lo que hago
 
----
+Desarrollo aplicaciones web con React + Tailwind
 
-## 🚀 Sobre mí
-- 👨‍🎓 Estudiante de Desarrollo de Software (Loyola IEESL)  
-- 💼 Full Stack Developer en proyectos reales  
-- 🐧 Amante de Linux y la automatización  
-- ☁️ Experiencia con Azure y despliegues en la nube  
-- 🧰 Construyo soluciones de backend eficientes (Node.js, Python, C#)  
-- 🗄️ Trabajo con bases de datos SQL (MySQL, PostgreSQL)  
-- 🕹️ Experiencia creando interfaces limpias y funcionales (React, Tailwind)  
-- 🧩 Tengo conocimientos en CMS (Strapi) y control de versiones con Git  
+Backend con Node.js, Python y C#
 
----
+Gestión de bases de datos MySQL y PostgreSQL
 
-## 🛠️ Tecnologías y Herramientas
+Sistemas en la nube con Azure
 
-### 🎨 Frontend
-- React.js  
-- Tailwind CSS  
-- JavaScript
+Uso diario de Linux, Git y Strapi
 
-### ⚙️ Backend
-- Node.js  
-- Python  
-- C# (Windows Forms)
+🛠️ Proyectos destacados
 
-### 🗄️ Bases de Datos
-- MySQL  
-- PostgreSQL  
-- SQL  
+Sistema de facturación en C#: CRUD completo, Windows Forms, MySQL
 
-### ☁️ Cloud & DevOps
-- Microsoft Azure  
-- Docker (en proceso de profundización)  
-- Linux (uso diario)
+Billing System en Python: generación de facturas PDF, API interna, automatización
 
-### 🔧 Otros
-- Strapi CMS  
-- API REST  
-- Git & GitHub  
+Proyectos Full Stack: integración con Strapi, autenticación, manejo de archivos
 
----
+🎓 Educación
 
-## 🧩 Proyectos Destacados
+Tecnólogo en Desarrollo de Software — IEESL LOYOLA (2023–2025)
 
-### **🧾 Sistema de Facturación en C#**
-- CRUD completo para clientes, productos y facturas  
-- Conexión con MySQL  
-- Windows Forms para la interfaz  
-- Gestión eficiente del flujo de ventas  
+Certificación en Microsoft Azure — ITLA (2025)
 
----
+Python Avanzado — ITLA (2025)
 
-### **💼 Billing System en Python**
-- Sistema de facturación completo  
-- Generación de facturas en PDF  
-- Integración con base de datos  
-- API interna para consumo de otros servicios  
-- Automatización del proceso de cobro y administración  
+📫 Contacto
 
----
+Tel: 829-932-5929
 
-### **🌐 Proyectos Full Stack**
-- Páginas web desarrolladas con React + Tailwind  
-- Integración con Strapi como backend  
-- Manejo de archivos, autenticación, endpoints y base de datos
+Email: isaelm540@gmail.com
 
----
-
-## 📚 Educación
-- **IEESL LOYOLA (2023 - 2025)**  
-  Tecnólogo en Desarrollo de Software  
-
-- **ITLA (2025)**  
-  Microsoft Azure – Nivel Profesional  
-
-- **ITLA (2025)**  
-  Python Avanzado  
-
----
-
-## 📫 Contacto
-- 📱 Teléfono: 829-932-5929  
-- ✉️ Correo: isaelm540@gmail.com  
-- 🐦 Instagram: @_yosbert  
+IG: @_yosbert
