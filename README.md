@@ -1,5 +1,5 @@
 # 👋 Hola, soy Yosbert Mejía Rosario  
-### Full Stack Developer | Linux | Azure & Python
+### Full Stack Developer | Linux | JavaScript | Azure & Python 
 
 Soy un desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube.
 
