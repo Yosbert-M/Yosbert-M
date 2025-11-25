@@ -1,5 +1,5 @@
 # 👋 Hola, soy Yosbert Mejía Rosario  
-### Full Stack Developer | Linux | DevOps Enthusiast | Azure & Python
+### Full Stack Developer | Linux | Azure & Python
 
 Soy un desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube.
 
@@ -29,25 +29,21 @@ Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y t
 ### ⚙️ Backend
 - Node.js  
 - Python  
-- C# (Windows Forms)
 
 ### 🗄️ Bases de Datos
 - MySQL  
 - PostgreSQL  
-- SQL  
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 - Microsoft Azure  
 - Docker (en proceso de profundización)  
 - Linux (uso diario)
 
 ### 🔧 Otros
 - Strapi CMS  
-- API REST  
 - Git & GitHub  
 
 ---
-
 ## 🧩 Proyectos Destacados
 
 ### **🧾 Sistema de Facturación en C#**
@@ -57,7 +53,6 @@ Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y t
 - Gestión eficiente del flujo de ventas  
 
 ---
-
 ### **💼 Billing System en Python**
 - Sistema de facturación completo  
 - Generación de facturas en PDF  
@@ -66,14 +61,12 @@ Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y t
 - Automatización del proceso de cobro y administración  
 
 ---
-
 ### **🌐 Proyectos Full Stack**
 - Páginas web desarrolladas con React + Tailwind  
 - Integración con Strapi como backend  
 - Manejo de archivos, autenticación, endpoints y base de datos
 
 ---
-
 ## 📚 Educación
 - **IEESL LOYOLA (2023 - 2025)**  
   Tecnólogo en Desarrollo de Software  
