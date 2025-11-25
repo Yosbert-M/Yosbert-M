@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Hola, soy Yosbert Mejía Rosario  
+### Full Stack Developer | Linux | DevOps Enthusiast | Azure & Python
 
-<!--
-**Yosbert-M/Yosbert-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube.
 
-Here are some ideas to get you started:
+Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y trabajo como **Desarrollador Full Stack** en *Intellisys D. Corp*, donde participo en el desarrollo de aplicaciones reales usando tecnologías actuales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+- 👨‍🎓 Estudiante de Desarrollo de Software (Loyola IEESL)  
+- 💼 Full Stack Developer en proyectos reales  
+- 🐧 Amante de Linux y la automatización  
+- ☁️ Experiencia con Azure y despliegues en la nube  
+- 🧰 Construyo soluciones de backend eficientes (Node.js, Python, C#)  
+- 🗄️ Trabajo con bases de datos SQL (MySQL, PostgreSQL)  
+- 🕹️ Experiencia creando interfaces limpias y funcionales (React, Tailwind)  
+- 🧩 Tengo conocimientos en CMS (Strapi) y control de versiones con Git  
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 🎨 Frontend
+- React.js  
+- Tailwind CSS  
+- JavaScript
+
+### ⚙️ Backend
+- Node.js  
+- Python  
+- C# (Windows Forms)
+
+### 🗄️ Bases de Datos
+- MySQL  
+- PostgreSQL  
+- SQL  
+
+### ☁️ Cloud & DevOps
+- Microsoft Azure  
+- Docker (en proceso de profundización)  
+- Linux (uso diario)
+
+### 🔧 Otros
+- Strapi CMS  
+- API REST  
+- Git & GitHub  
+
+---
+
+## 🧩 Proyectos Destacados
+
+### **🧾 Sistema de Facturación en C#**
+- CRUD completo para clientes, productos y facturas  
+- Conexión con MySQL  
+- Windows Forms para la interfaz  
+- Gestión eficiente del flujo de ventas  
+
+---
+
+### **💼 Billing System en Python**
+- Sistema de facturación completo  
+- Generación de facturas en PDF  
+- Integración con base de datos  
+- API interna para consumo de otros servicios  
+- Automatización del proceso de cobro y administración  
+
+---
+
+### **🌐 Proyectos Full Stack**
+- Páginas web desarrolladas con React + Tailwind  
+- Integración con Strapi como backend  
+- Manejo de archivos, autenticación, endpoints y base de datos
+
+---
+
+## 📚 Educación
+- **IEESL LOYOLA (2023 - 2025)**  
+  Tecnólogo en Desarrollo de Software  
+
+- **ITLA (2025)**  
+  Microsoft Azure – Nivel Profesional  
+
+- **ITLA (2025)**  
+  Python Avanzado  
+
+---
+
+## 📫 Contacto
+- 📱 Teléfono: 829-932-5929  
+- ✉️ Correo: isaelm540@gmail.com  
+- 🐦 Instagram: @_yosbert  
