@@ -1,40 +1,38 @@
 👋 Hola, soy Yosbert Mejía Rosario
 Full Stack Developer | Linux | Azure | Python
 
-Desarrollador de software con experiencia construyendo sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas en frontend, backend, bases de datos y despliegue en la nube. Actualmente estudio Tecnólogo en Desarrollo de Software (Loyola IEESL) y trabajo como Full Stack Developer en Intellisys D. Corp.
+Desarrollador de software con experiencia creando sistemas de facturación, aplicaciones web y soluciones backend. Manejo tecnologías modernas para frontend, backend, bases de datos y despliegue en la nube. Actualmente estudio Tecnólogo en Desarrollo de Software en Loyola IEESL y trabajo como Full Stack Developer en Intellisys D. Corp.
 
-🧑‍💻 Lo que hago
+🚀 Sobre mí
 
-Desarrollo aplicaciones web con React + Tailwind
+💼 Full Stack Developer en proyectos reales
 
-Backend con Node.js, Python y C#
+👨‍🎓 Estudiante de Desarrollo de Software (Loyola IEESL)
 
-Gestión de bases de datos MySQL y PostgreSQL
+🐧 Usuario avanzado de Linux
 
-Sistemas en la nube con Azure
+☁️ Experiencia con Azure y despliegues en la nube
 
-Uso diario de Linux, Git y Strapi
+⚙️ Desarrollo backend con Node.js, Python y C#
 
-🛠️ Proyectos destacados
+🗄️ Manejo de MySQL y PostgreSQL
 
-Sistema de facturación en C#: CRUD completo, Windows Forms, MySQL
+🎨 Frontend con React y Tailwind
 
-Billing System en Python: generación de facturas PDF, API interna, automatización
+🔧 Experiencia con Strapi y Git
 
-Proyectos Full Stack: integración con Strapi, autenticación, manejo de archivos
+🛠️ Tecnologías
 
-🎓 Educación
+Frontend: React, Tailwind, JavaScript
+Backend: Node.js, Python, C#
+Bases de datos: MySQL, PostgreSQL
+Cloud & DevOps: Azure, Docker, Linux
+Otros: Strapi, APIs REST, Git
 
-Tecnólogo en Desarrollo de Software — IEESL LOYOLA (2023–2025)
+🧩 Proyectos Destacados
 
-Certificación en Microsoft Azure — ITLA (2025)
+Sistema de Facturación en C# — CRUD completo con MySQL y Windows Forms.
 
-Python Avanzado — ITLA (2025)
+Billing System en Python — Facturación, generación de PDF, API interna y automatización.
 
-📫 Contacto
-
-Tel: 829-932-5929
-
-Email: isaelm540@gmail.com
-
-IG: @_yosbert
+Proyectos Full Stack — Web apps con React + Tailwind y backend con Strapi.
