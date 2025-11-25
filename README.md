@@ -21,7 +21,7 @@ Actualmente estudio **Tecnólogo en Desarrollo de Software en Loyola IEESL** y t
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🎨 Frontend
+### 🎨 Frontend                         
 - React.js  
 - Tailwind CSS  
 - JavaScript
