@@ -1,76 +1,66 @@
-<h1 align="center">Hi 👋, I'm Yosbert Mejía</h1>
-<h3 align="center">Fullstack Developer | DevOps Enthusiast | React & Strapi Lover</h3>
-
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/dev.gif" width="300" alt="developer animation">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
 
----
+<p align="right">
+  <!-- Asegúrate de subir dev_animation.gif al repositorio y mantener la ruta correcta -->
+  <img src="./dev_animation.gif" width="320" alt="developer animation" />
+</p>
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Institutional Intranet (IPL Connect)**
-- 🌱 Learning **DevOps en Linux**
-- ⚡ I use **React + Vite + Strapi + Tailwind**
-- 🎯 Buscando crecer como **DevOps Engineer**
+# Hola 👋, soy Yosbert Mejía
+Desarrollador de software — me interesa backend, DevOps y desarrollo web.<br>
+Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 
----
+## 🔗 Mis redes
+- **LinkedIn:** https://www.linkedin.com/in/yosbert-mejia-a18123362/
+- **GitHub:** https://github.com/YosbertMejia  <!-- reemplaza con tu usuario real si es distinto -->
 
-## 📩 Connect With Me
-
+## 🔧 Mi stack tecnológico (todas agrupadas — sin filtrar)
 <p align="left">
-  <a href="https://linkedin.com/in/yosbert-mejia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-  
-  <a href="mailto:yosbert@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="40" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="40" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="40" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="40" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="40" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" height="40" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white" height="40" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" height="40" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" height="40" />
+  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2B2F7E?logo=strapi&logoColor=white" height="40" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" height="40" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" height="40" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="40" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" height="40" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" height="40" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" height="40" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" height="40" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="40" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="40" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white" height="40" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" height="40" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" height="40" />
 </p>
+
+## 🚀 Qué estoy usando ahora
+- Backend con **Python** (Django / Flask)  
+- APIs y CMS con **Strapi**  
+- Frontend con **React / Next.js / Vite**  
+- Contenerización con **Docker**, orquestación con **Kubernetes**  
+- Despliegue / infraestructura en **Azure**  
+- Bases de datos: **PostgreSQL / MySQL / MongoDB**  
+- Estilos con **Tailwind CSS**  
+- Control de versiones con **Git** en Linux
+
+### 📂 Proyectos destacados
+- **Intranet institucional** — React + Firebase + Strapi (proyecto en curso)  
+- **Radar Migratorio (Radar MI)** — PostgreSQL + Azure + Node.js  
+- **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32"/>
-</p>
-
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
-</p>
-
-### **DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Python Snake (Opcional)
-
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## ⭐ “Code. Build. Learn. Repeat.”
+## 📌 Nota rápida
+1. Descarga `dev_animation.gif` desde el enlace que te di arriba.  
+2. Súbelo al repo (o a una carpeta `assets/`) y ajusta la ruta en el tag `<img src="...">` si es necesario.  
+3. Si quieres que la animación sea diferente (más movimiento, giro, parpadeo de pantalla, o un banner completo animado), dime exactamente qué efecto quieres y lo ajusto.
 
