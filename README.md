@@ -8,8 +8,6 @@
 Desarrollador de software — me interesa backend, DevOps y desarrollo web.  
 Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 
----
-
 ## 🔧 Mi stack tecnológico
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">&emsp;
@@ -25,13 +23,11 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white">
 </p>
 
----
-
 ## 🚀 Qué estoy usando ahora
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Animated-Illustrations/main/Developer/developer-02.png" width="300" alt="developer" />
-</p>
+<table>
+  <tr>
+    <td>
 
 - Backend con **Python** (Django / Flask)  
 - APIs y CMS con **Strapi**  
@@ -42,12 +38,16 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 - Estilos con **Tailwind CSS**  
 - Control de versiones con **Git** en Linux
 
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Animated-Illustrations/main/Developer/developer-02.png" width="260" alt="developer" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 📂 Proyectos destacados
-
+### 📂 Proyectos destacados
 - **Intranet institucional** — React + Firebase + Strapi (proyecto en curso)  
-- **Sistema de facturación** — Python + MySQL/Postgres  
+- **Sistema de facturación** — Python + MySQL/PostgreSQL  
 - **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
-
----
