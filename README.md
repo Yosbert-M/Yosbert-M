@@ -3,15 +3,12 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
 
-<!-- Imagen del developer funcional -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Animated-Illustrations/main/Developer/developer-02.png" width="350" alt="developer" />
-</p>
-
 # Hola 👋, soy Yosbert Mejía
 
 Desarrollador de software — me interesa backend, DevOps y desarrollo web.  
 Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
+
+---
 
 ## 🔧 Mi stack tecnológico
 <p align="left">
@@ -28,7 +25,14 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white">
 </p>
 
+---
+
 ## 🚀 Qué estoy usando ahora
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Animated-Illustrations/main/Developer/developer-02.png" width="300" alt="developer" />
+</p>
+
 - Backend con **Python** (Django / Flask)  
 - APIs y CMS con **Strapi**  
 - Frontend con **React / Next.js**  
@@ -38,7 +42,12 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 - Estilos con **Tailwind CSS**  
 - Control de versiones con **Git** en Linux
 
-### 📂 Proyectos destacados
+---
+
+## 📂 Proyectos destacados
+
 - **Intranet institucional** — React + Firebase + Strapi (proyecto en curso)  
 - **Sistema de facturación** — Python + MySQL/Postgres  
 - **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
+
+---
