@@ -2,22 +2,23 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
 
-<!-- Imagen animada (reemplaza el src con tu GIF si es necesario) -->
 <p align="right">
+  <!-- Coloca aquí tu imagen/gif animado -->
   <img src="./dev_animation.gif" alt="developer animation" width="340" />
 </p>
 
 # 👋 Hola, soy **Yosbert Mejía**
 
 Desarrollador de software con enfoque en **Backend**, **DevOps** y **Desarrollo Web**.  
-Me gusta construir sistemas escalables, APIs rápidas, automatización y despliegues en la nube.
+Apasionado por crear sistemas escalables, APIs rápidas y desplegar soluciones en la nube.
 
 ---
 
 ## 🔗 **Conecta conmigo**
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/yosbert-mejia-a18123362/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yosbert%20Mejía-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="55" height="55" />
   </a>
 </p>
 
@@ -44,18 +45,18 @@ Me gusta construir sistemas escalables, APIs rápidas, automatización y desplie
 ---
 
 ## 🚀 **Lo que estoy usando ahora**
-- Desarrollo Backend con **Python**
+- Backend con **Python**
 - Frontend con **React**, **Next.js** y **Vite**
-- CMS y APIs con **Strapi**
+- APIs & CMS con **Strapi**
 - Contenedores con **Docker**
-- Infraestructura y despliegue en **Azure**
-- Bases de datos **PostgreSQL**
+- Deploy e infraestructura en **Azure**
+- Base de datos **PostgreSQL**
 - Estilos con **Tailwind CSS**
-- Control de versiones con **Git** en **Linux**
+- Control de versiones con **Git** sobre **Linux**
 
 ---
 
 ## 📂 **Proyectos destacados**
 - **Intranet institucional** — React + Firebase + Strapi  
 - **Radar Migratorio (Radar MI)** — Azure + PostgreSQL + Node.js  
-- 
+- **Contador con reconocimiento facial** — Python + OpenCV + PostgreSQL  
