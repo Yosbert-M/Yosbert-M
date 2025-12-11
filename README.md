@@ -70,15 +70,6 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 - Bases de datos: **PostgreSQL**  
 - Estilos con **Tailwind CSS**  
 - Control de versiones con **Git** en Linux
-
----
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="github-stats" />
-  &nbsp;&nbsp;
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8" alt="top-langs" />
-</p>
-
 ---
 
 ### 📂 Proyectos destacados
