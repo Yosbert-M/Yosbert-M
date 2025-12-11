@@ -61,3 +61,5 @@ Me enfoco en crear aplicaciones eficientes y proyectos escalables.
 - **Intranet institucional** — React + Firebase + Strapi  
 - **Radar Migratorio (Radar MI)** — Azure + PostgreSQL + Node.js  
 - **Contador con reconocimiento facial** — Python + OpenCV + PostgreSQL  
+- **Blog de Noticias - Vite, React.js, Strapi  
+Sistema de noticias con panel administrativo, API en Strapi y frontend rápido con Vite + React.  
