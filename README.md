@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
 
-<!-- Nueva imagen del dev sin líneas -->
+<!-- Imagen del developer funcional -->
 <p align="right">
-  <img src="https://raw.githubusercontent.com/ThiagoAugustoSM/assets/main/developer-illustration.png" width="350" alt="developer" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Animated-Illustrations/main/Developer/developer-02.png" width="350" alt="developer" />
 </p>
 
 # Hola 👋, soy Yosbert Mejía
