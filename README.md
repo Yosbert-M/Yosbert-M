@@ -15,7 +15,7 @@ Me enfoco en crear aplicaciones eficientes y proyectos escalables.
 
 ---
 
-##**Conecta conmigo**
+**Conecta conmigo**
 <p align="left">
   <a href="https://www.linkedin.com/in/yosbert-mejia-a18123362/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
