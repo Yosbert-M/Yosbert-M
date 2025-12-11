@@ -1,1 +1,76 @@
-<p align="center">   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" /> </p> <p align="right"><img src="URL_DE_TU_NUEVA_IMAGEN_DE_DESARROLLADOR" alt="animation" /></p> # Hola 👋, soy Yosbert Mejía Desarrollador de software — me interesa backend, DevOps y desarrollo web.   Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube. ## 🔧 Mi stack tecnológico <p align="left">   <a>     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">   </a>   &emsp;   <a>     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">   </a>   &emsp;   <a>     <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">   </a>   &emsp;   <a>     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white">   </a>   &emsp;   <a>     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">   </a>   &emsp;   <a>     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white">   </a>   &emsp;   <a>     <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2B2F7E?logo=strapi&logoColor=white">   </a>   &emsp;   <a>     <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white">   </a>   &emsp;   <a>     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white">   </a>   &emsp;   <a>     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">   </a>   &emsp;   <a>     <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white">   </a> </p> ## 🚀 Qué estoy usando ahora - Backend con **Python** (Django / Flask)   - APIs y CMS con **Strapi**   - Frontend con **React / Next.js**   - Contenerización con **Docker**   - Despliegue / infraestructura en **Azure**   - Bases de datos: **PostgreSQL**   - Estilos con **Tailwind CSS**   - Control de versiones con **Git** en Linux ### 📂 Proyectos destacados - **Intranet institucional** — React + Firebase + Strapi (proyecto en curso)   - **Sistema de facturación** — Python + MySQL/Postgres   - **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
+<h1 align="center">Hi 👋, I'm Yosbert Mejía</h1>
+<h3 align="center">Fullstack Developer | DevOps Enthusiast | React & Strapi Lover</h3>
+
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/dev.gif" width="300" alt="developer animation">
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on **Institutional Intranet (IPL Connect)**
+- 🌱 Learning **DevOps en Linux**
+- ⚡ I use **React + Vite + Strapi + Tailwind**
+- 🎯 Buscando crecer como **DevOps Engineer**
+
+---
+
+## 📩 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yosbert-mejia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  
+  <a href="mailto:yosbert@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32"/>
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Python Snake (Opcional)
+
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ⭐ “Code. Build. Learn. Repeat.”
+
