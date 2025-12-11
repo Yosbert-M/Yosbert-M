@@ -46,7 +46,6 @@ Me enfoco en crear aplicaciones eficientes y proyectos escalables.
 ---
 
 ## 🚀 **Lo que estoy usando ahora**
-- Backend con **Python**
 - Frontend con **React**, **Next.js** y **Vite**
 - APIs & CMS con **Strapi**
 - Contenedores con **Docker**
