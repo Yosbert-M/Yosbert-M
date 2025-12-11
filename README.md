@@ -15,7 +15,7 @@ Me enfoco en crear aplicaciones eficientes y proyectos escalables.
 
 ---
 
-## 🔗 **Conecta conmigo**
+##**Conecta conmigo**
 <p align="left">
   <a href="https://www.linkedin.com/in/yosbert-mejia-a18123362/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
@@ -25,7 +25,7 @@ Me enfoco en crear aplicaciones eficientes y proyectos escalables.
 
 ---
 
-## 🔧 **Mi stack tecnológico**
+## **Mi stack tecnológico**
 <p align="left">
 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" height="50" />
