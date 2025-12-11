@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
-
-<!-- Animated gif a la derecha -->
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
 # Hola 👋, soy Yosbert Mejía
@@ -59,8 +57,6 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
   </a>
 </p>
 
----
-
 ## 🚀 Qué estoy usando ahora
 - Backend con **Python** (Django / Flask)  
 - APIs y CMS con **Strapi**  
@@ -71,34 +67,7 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 - Estilos con **Tailwind CSS**  
 - Control de versiones con **Git** en Linux
 
----
-
-## 🔗 Conéctate conmigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/yosbert-mejia-a18123362/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- agrega otras redes si quieres -->
-</p>
-
----
-
-## 📊 Estadísticas de GitHub
-> Reemplaza `TU_USUARIO_GITHUB` por tu usuario real (el repo del perfil debe llamarse exactamente como tu usuario).
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="github-stats" />
-  &nbsp;&nbsp;
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8" alt="top-langs" />
-</p>
-
----
-
 ### 📂 Proyectos destacados
 - **Intranet institucional** — React + Firebase + Strapi (proyecto en curso)  
 - **Sistema de facturación** — Python + MySQL/Postgres  
 - **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
-
----
-
-> Si quieres que cambie colores, agregue más badges (por ejemplo: CI/CD, tests) o que ponga tu usuario para las estadísticas, dime tu **usuario de GitHub** y lo ajusto aquí mismo. 😊
