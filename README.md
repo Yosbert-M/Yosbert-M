@@ -73,19 +73,6 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 
 ---
 
-## 🔗 Conéctate conmigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/yosbert-mejia-a18123362/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- agrega otras redes si quieres -->
-</p>
-
----
-
-## 📊 Estadísticas de GitHub
-> Reemplaza `TU_USUARIO_GITHUB` por tu usuario real (el repo del perfil debe llamarse exactamente como tu usuario).
-
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="github-stats" />
   &nbsp;&nbsp;
@@ -99,7 +86,5 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 - **Sistema de facturación** — Python + MySQL/Postgres  
 - **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
 
----
 
-> Si quieres que cambie colores, agregue más badges (por ejemplo: CI/CD, tests) o que ponga tu usuario para las estadísticas, dime tu **usuario de GitHub** y lo ajusto aquí mismo. 😊
 
