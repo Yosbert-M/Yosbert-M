@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
-
-<!-- Animated gif a la derecha -->
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
 # Hola 👋, soy Yosbert Mejía
