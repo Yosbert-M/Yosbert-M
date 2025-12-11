@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
 
-<p align="right"><img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="animation" /></p>
+<p align="right"><img src="URL_DE_TU_NUEVA_IMAGEN_DE_DESARROLLADOR" alt="animation" /></p>
 
 # Hola 👋, soy Yosbert Mejía
 
