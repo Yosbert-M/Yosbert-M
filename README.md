@@ -57,8 +57,6 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
   </a>
 </p>
 
----
-
 ## 🚀 Qué estoy usando ahora
 - Backend con **Python** (Django / Flask)  
 - APIs y CMS con **Strapi**  
@@ -68,12 +66,8 @@ Con experiencia en Python, JavaScript, bases de datos y despliegue en la nube.
 - Bases de datos: **PostgreSQL**  
 - Estilos con **Tailwind CSS**  
 - Control de versiones con **Git** en Linux
----
 
 ### 📂 Proyectos destacados
 - **Intranet institucional** — React + Firebase + Strapi (proyecto en curso)  
 - **Sistema de facturación** — Python + MySQL/Postgres  
 - **Contador con reconocimiento facial** — Python, OpenCV, PostgreSQL
-
-
-
