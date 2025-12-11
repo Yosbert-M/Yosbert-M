@@ -1,8 +1,10 @@
-<!-- Header image (usa la imagen que indicaste) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" />
 </p>
-<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="animation" /></p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/portfolio/main/spiderman-dev.svg" width="380" />
+</p>
 
 # Hola 👋, soy Yosbert Mejía
 
