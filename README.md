@@ -3,7 +3,6 @@
 </p>
 
 <p align="right">
-  <!-- Coloca aquí tu imagen/gif animado -->
   <img src="./dev_animation.gif" alt="developer animation" width="340" />
 </p>
 
