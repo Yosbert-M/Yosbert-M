@@ -40,23 +40,4 @@ Me enfoco en crear aplicaciones eficientes y proyectos escalables.
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" height="50" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" height="50" />
 
-</p>
 
----
-
-## 🚀 **Lo que estoy usando ahora**
-- Frontend con **React**, **Next.js** y **Vite**
-- APIs & CMS con **Strapi**
-- Contenedores con **Docker**
-- Deploy e infraestructura en **Azure**
-- Base de datos **PostgreSQL**
-- Estilos con **Tailwind CSS**
-- Control de versiones con **Git** sobre **Linux**
-
----
-
-## 📂 **Proyectos destacados**i  
-- **Radar Migratorio (Radar MI)** — Azure + PostgreSQL + Node.js + Js  
-- **Contador con reconocimiento facial** — Python + OpenCV + PostgreSQL  
-- **Blog de Noticias** - Vite, React, js, Strapi  
-Sistema de noticias con, API en Strapi y frontend rápido con Vite + React.  
